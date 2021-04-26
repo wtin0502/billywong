@@ -47,7 +47,9 @@ a:hover{
     text-align: center;
     font-family: "Playfair Display", sans-serif;
     font-weight: bolder;
-    font-size: 40px;
+    font-size: 4vmin;
+    margin-left: 20vw;
+    margin-right: 20vw;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     margin-bottom: 20px;
@@ -59,7 +61,7 @@ a:hover{
     text-align: center;
     font-family: "Montserrat", sans-serif;
     font-style: italic;
-    font-size: 20px;
+    font-size: 2vmin;
     margin-bottom: 40px;
     letter-spacing: 2px;
 }
@@ -385,7 +387,7 @@ p{
 span{
     color : #2F3139;
     font-family: "Playfair Display", sans-serif;
-    font-size: 50px;
+    font-size: 5vmin;
     font-weight: bolder;
     margin:auto;
     
