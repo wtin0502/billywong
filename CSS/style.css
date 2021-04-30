@@ -352,13 +352,32 @@ h2{
     font-family: "Montserrat", sans-serif;
     font-size: 2vmin;
     font-weight: lighter;
-    margin-top: 80px;
-    margin-bottom: 20px;
     margin-left: 20vw;
     margin-right: 20vw;
     color: #2F3139;
     opacity: 50%;
 }
+
+.h2-1{
+    margin-top: 80px;
+}
+
+.h2-2{
+    margin-bottom: 20px;
+}
+
+
+.video{
+    display: block;
+    margin: 0 auto;
+
+
+    
+}
+
+
+
+
 
 p{
     position: relative;
